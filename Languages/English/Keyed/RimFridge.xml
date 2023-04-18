@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<RimFridge.TargetTemperature>Target Temperature</RimFridge.TargetTemperature>
+	<RimFridge.CurrentTemperature>Current Temperature</RimFridge.CurrentTemperature>
+	<RimFridge.Power>Power</RimFridge.Power>
+	<RimFridge.RenameTheRefrigerator>Rename The Refrigerator</RimFridge.RenameTheRefrigerator>
+	<RimFridge.ToggleGlowColor>Toggle Glow Color</RimFridge.ToggleGlowColor>
+	<RimFridge.ToggleGlowColorDesc>Toggle the color of the glow between normal and dark light.</RimFridge.ToggleGlowColorDesc>
+</LanguageData>

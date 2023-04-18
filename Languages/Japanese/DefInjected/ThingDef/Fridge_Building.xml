@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimFridge_SingleRefrigerator.label>一人用冷蔵庫</RimFridge_SingleRefrigerator.label>
+  <RimFridge_SingleRefrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</RimFridge_SingleRefrigerator.description>
+  <Blueprint_RimFridge_SingleRefrigerator.label>一人用冷蔵庫(設計)</Blueprint_RimFridge_SingleRefrigerator.label>
+  <Blueprint_Install_RimFridge_SingleRefrigerator.label>一人用冷蔵庫(移動先)</Blueprint_Install_RimFridge_SingleRefrigerator.label>
+  <Frame_RimFridge_SingleRefrigerator.label>一人用冷蔵庫(施工)</Frame_RimFridge_SingleRefrigerator.label>
+  <Frame_RimFridge_SingleRefrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</Frame_RimFridge_SingleRefrigerator.description>
+
+  <RimFridge_Refrigerator.label>冷蔵庫</RimFridge_Refrigerator.label>
+  <RimFridge_Refrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</RimFridge_Refrigerator.description>
+  <Blueprint_RimFridge_Refrigerator.label>冷蔵庫(設計)</Blueprint_RimFridge_Refrigerator.label>
+  <Blueprint_Install_RimFridge_Refrigerator.label>冷蔵庫(移動先)</Blueprint_Install_RimFridge_Refrigerator.label>
+  <Frame_RimFridge_Refrigerator.label>冷蔵庫(施工)</Frame_RimFridge_Refrigerator.label>
+  <Frame_RimFridge_Refrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</Frame_RimFridge_Refrigerator.description>
+
+  <RimFridge_QuadRefrigerator.label>冷蔵庫(4連)</RimFridge_QuadRefrigerator.label>
+  <RimFridge_QuadRefrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</RimFridge_QuadRefrigerator.description>
+  <Blueprint_RimFridge_QuadRefrigerator.label>冷蔵庫(4連)(設計)</Blueprint_RimFridge_QuadRefrigerator.label>
+  <Blueprint_Install_RimFridge_QuadRefrigerator.label>冷蔵庫(4連)(移動先)</Blueprint_Install_RimFridge_QuadRefrigerator.label>
+  <Frame_RimFridge_QuadRefrigerator.label>冷蔵庫(4連)(施工)</Frame_RimFridge_QuadRefrigerator.label>
+  <Frame_RimFridge_QuadRefrigerator.description>これに保存される鮮度のあるアイテムは、腐敗しません。</Frame_RimFridge_QuadRefrigerator.description>
+
+</LanguageData>
